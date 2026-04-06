@@ -1,3 +1,2 @@
-# apt_price_downprob_fcst_modeling  
-
-매각자산 선정을 위한 부동산 가격하락확률 예측모형 
+Apartment price-decline probability modeling for mortgage asset selection and securitization.
+Focused on improving decision criteria beyond simple LTV and regional rules.
