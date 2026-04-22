@@ -19,7 +19,7 @@ mbslst = read_rds('data/mbslist.rds')
 dfx1 = mk_x(201502) # 5분 소요 
 dfx2 = mk_x(201506)
 dfx3 = mk_x(201511)
-dfx4 - mk_x(201606)
+dfx4 = mk_x(201606)
 
 dfx = bind_rows(dfx1,dfx2,dfx3,dfx4)
 dfy = map_dfr(c(201502,201506,201511,201606),mk_y)
