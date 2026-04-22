@@ -1,7 +1,7 @@
 # Apartment Price-Decline Probability Modeling for Mortgage Risk Management
 
-아파트 가격 하락확률을 활용해 담보물 위험을 정교하게 평가하려는 모기지 리스크 분석 프로젝트입니다.
-단순 LTV나 지역 기준만으로는 포착하기 어려운 담보물의 하방위험을 데이터 기반으로 구조화했습니다.
+아파트 가격 하락확률을 활용해 담보물 위험을 정교하게 평가하려는 모기지 리스크 분석 프로젝트입니다.  
+단순 LTV나 지역 기준만으로는 포착하기 어려운 담보물의 하방위험을 데이터 기반으로 구조화했습니다.  
 유동화 대상 자산 선정과 담보 리스크 모니터링에 활용할 수 있는 실무형 모델링 사례입니다.
 
 This project models the probability of apartment price decline to support mortgage asset selection and securitization decisions.
