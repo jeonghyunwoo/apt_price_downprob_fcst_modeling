@@ -90,8 +90,8 @@ Convert model output into a more interpretable price-decline probability.
 
 ```text
 R/
-├─ 0_init.R                     # helper functions and feature engineering utilities
-├─ 1_담보물_가격하락확률_예측모형.R   # model training and probability estimation
+├─ 01_feature_engineering_utils.R   # helper functions and feature engineering utilities
+├─ 02_train_price_down_model.R   # model training and probability estimation
 └─ README.md
 ```
 
